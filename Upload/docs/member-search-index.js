@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"ie.gmit.sw","c":"Alpha","l":"Alpha()","u":"%3Cinit%3E()"},{"p":"ie.gmit.sw","c":"Alpha","l":"alpha(Status)","u":"alpha(ie.gmit.sw.Status)"}];updateSearchResults();
